@@ -343,7 +343,7 @@ const Index = () => {
           <h2 className="text-3xl font-bold bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent mb-4">
             ПроДекор
           </h2>
-          <p className="text-muted-foreground mb-6">Создаём интерьеры, которые вдохновляют</p>
+          <p className="text-muted-foreground mb-6">От проекта до реализации</p>
           <div className="flex gap-4 justify-center mb-6">
             <Button variant="outline" size="icon" className="rounded-full">
               <Icon name="Instagram" size={20} />
