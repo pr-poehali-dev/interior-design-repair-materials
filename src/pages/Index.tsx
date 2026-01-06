@@ -128,7 +128,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-              INTERIOR STUDIO
+              ПроДекор
             </h1>
             <div className="hidden md:flex gap-6">
               <button
@@ -341,7 +341,7 @@ const Index = () => {
       <footer className="py-12 px-4 border-t border-border">
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent mb-4">
-            INTERIOR STUDIO
+            ПроДекор
           </h2>
           <p className="text-muted-foreground mb-6">Создаём интерьеры, которые вдохновляют</p>
           <div className="flex gap-4 justify-center mb-6">
